@@ -9,3 +9,4 @@ apscheduler
 requests
 psutil
 pyromod
+pymongo<=23.0.1
